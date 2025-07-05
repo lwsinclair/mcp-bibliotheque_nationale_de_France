@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kryzo-mcp-bibliotheque-nationale-de-france-badge.png)](https://mseep.ai/app/kryzo-mcp-bibliotheque-nationale-de-france)
+
 # BnF API Server
 
 Un serveur MCP (Model-Client-Protocol) pour accéder à l'API Gallica de la Bibliothèque nationale de France (BnF) et générer des rapports de recherche séquentiels.
